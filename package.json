@@ -1,0 +1,8 @@
+{
+  "name": "webpack5-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gonyulian415/webpack5-study.git",
+  "author": "Alan",
+  "license": "MIT"
+}
