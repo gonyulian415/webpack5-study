@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/gonyulian415/webpack5-study.git",
   "author": "Alan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
