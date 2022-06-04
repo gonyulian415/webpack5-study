@@ -1,1 +1,2 @@
-console.log('hello webpack5');
+
+let sum = (a, b) => a + b
